@@ -1,0 +1,22 @@
+[
+    {
+        "descripcion": "Hacer aseo",
+        "fecha": "2025-05-02",
+        "completada": "NO"
+    },
+    {
+        "descripcion": "Comer",
+        "fecha": "2025-05-03",
+        "completada": "NO"
+    },
+    {
+        "descripcion": "Dormir",
+        "fecha": "2025-05-03",
+        "completada": "NO"
+    },
+    {
+        "descripcion": "Trabajar",
+        "fecha": "2025-05-03",
+        "completada": "NO"
+    }
+]
